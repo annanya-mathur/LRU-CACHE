@@ -1,5 +1,5 @@
 # LRU-CACHE
-<br>**Data Structure Used :-** Doubly-Linked List and Hash Map.
+<br>**Data Structure Used :-** Doubly-Linked List and Hash Map.<br>
 **Cache**:- It is the fastest memory which is smaller in size and expensive . It has a fixed size.<hr>
 
 ![lru](https://user-images.githubusercontent.com/68476475/184906506-c3a11290-7488-4d02-8ebb-6cf64221ed7b.svg)
