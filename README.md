@@ -3,7 +3,7 @@
 ![lru](https://user-images.githubusercontent.com/68476475/184906506-c3a11290-7488-4d02-8ebb-6cf64221ed7b.svg)
 
 <hr>
-<br>**It is real life data structure application. It is used for fast interaction between server and client**:-<br> Implementing the LRU cache data structure , will allow the following operation in **O(1)**.<br>
+**It is real life data structure application. It is used for fast interaction between server and client**:-<br> Implementing the LRU cache data structure , will allow the following operation in **O(1)**.<br>
 <ul>
 <li>Insert (key , value) </li>
 <li>getvalue (key) </li>
