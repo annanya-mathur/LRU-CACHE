@@ -12,3 +12,6 @@
  
 **Implementation**:- LRU cache is implemented using doubly linked list storing key-value pair and unordered-map storing key along with its address.<br> 
 Insert operation has 3 cases:-
+
+
+![lru](https://user-images.githubusercontent.com/68476475/184905727-2339efa9-7abd-43af-92f9-be2e4361adb8.svg)
